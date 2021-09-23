@@ -1,0 +1,6 @@
+export * from './HomeTempelates'
+export * from './GetintouchTemplates'
+export * from './WatchProductTemplate'
+export * from './NeckBandTemplates'
+export * from './TermsConditionsTemplates'
+export * from './FAQTemplates'
