@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/brebel/static/css/main.619919ac.chunk.css",
+    "main.js": "/brebel/static/js/main.67b7b629.chunk.js",
+    "main.js.map": "/brebel/static/js/main.67b7b629.chunk.js.map",
+    "runtime-main.js": "/brebel/static/js/runtime-main.ae3c7f64.js",
+    "runtime-main.js.map": "/brebel/static/js/runtime-main.ae3c7f64.js.map",
+    "static/js/2.d1ed386b.chunk.js": "/brebel/static/js/2.d1ed386b.chunk.js",
+    "static/js/2.d1ed386b.chunk.js.map": "/brebel/static/js/2.d1ed386b.chunk.js.map",
+    "index.html": "/brebel/index.html",
+    "static/css/main.619919ac.chunk.css.map": "/brebel/static/css/main.619919ac.chunk.css.map",
+    "static/js/2.d1ed386b.chunk.js.LICENSE.txt": "/brebel/static/js/2.d1ed386b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/brebel/static/media/GopherText-Italic.ea0ea43f.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae3c7f64.js",
+    "static/js/2.d1ed386b.chunk.js",
+    "static/css/main.619919ac.chunk.css",
+    "static/js/main.67b7b629.chunk.js"
+  ]
+}
